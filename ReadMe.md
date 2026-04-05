@@ -9,21 +9,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">
+  <a href="https://irfan-dan-ana.my.id">
     <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">The Wedding</h1>
 
   <p align="center">
-    <strong>Rehan & Maulidan</strong>
+    <strong>Irfan & Ana</strong>
     <br />
-    <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
+    <a href="https://irfan-dan-ana.my.id">Explore the Invitation ! »</a>
     <br />
     <br />
-    <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
+    <a href="https://www.instagram.com/ipang_nettnott">Machin Zuhri Irfan</a>
     ·
-    <a href="https://github.com/maulidannashuha">Maulidan Nashuha</a>
+    <a href="https://www.instagram.com/naura_az_zahwa">Ana Nur Soimah</a>
   </p>
 </div>
 
